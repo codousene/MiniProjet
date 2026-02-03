@@ -1,0 +1,12 @@
+[
+    {
+        "id": "65bc8a21",
+        "titre": "Exemple de tâche",
+        "description": "Ceci est la première tâche",
+        "priorite": "haute",
+        "statut": "à faire",
+        "date_creation": "02-02-2026 14:30",
+        "date_limite": "2026-02-10",
+        "responsable": "Codou Sene"
+    }
+]
